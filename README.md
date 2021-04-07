@@ -1,2 +1,2 @@
 # Representation-Learning
- Assnigments of the course Representation Learning
+ Assignments of the course Representation Learning
